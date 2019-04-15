@@ -1,0 +1,29 @@
+{
+  "name": "syntax-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtliendo/syntax-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtliendo/syntax-scraper/issues"
+  },
+  "homepage": "https://github.com/mtliendo/syntax-scraper#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.3",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "prettier": "^1.17.0"
+  }
+}
